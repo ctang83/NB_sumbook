@@ -9,7 +9,7 @@ metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
 
 [params]
-  editURL = "https://github.com/ctang83/NB_edu/tree/master/exampleSite/content/"
+  editURL = ""
   description = "eee"
   author = "Mathieu Cornic"
   showVisitedLinks = false
