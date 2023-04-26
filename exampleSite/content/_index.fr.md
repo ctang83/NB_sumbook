@@ -13,16 +13,6 @@ Ce thème est un portage partiel du [thème Learn](http://learn.getgrav.org/) de
 
 ## Fonctionnalités principales
 
-* [Recherche automatique]({{%relref "basics/configuration/_index.md#activer-recherche" %}})
-* [Mode multi-langue]({{%relref "cont/i18n/_index.md" %}})
-* **Nombre de niveau infini dans le menu**
-* **Boutons suivant/précédent automatiquement générés pour naviguer entre les items du menu**
-* [Taille d'image, ombres...]({{%relref "cont/markdown.fr.md#images" %}})
-* [Fichiers joints]({{%relref "shortcodes/attachments.fr.md" %}})
-* [Lister les pages filles]({{%relref "shortcodes/children/_index.md" %}})
-* [Diagrammes Mermaid]({{%relref "shortcodes/mermaid.fr.md" %}}) (flowchart, sequence, gantt)
-* [Style configurable and variantes de couleurs]({{%relref "basics/style-customization/_index.md"%}})
-* [Boutons]({{%relref "shortcodes/button.fr.md" %}}), [Messages Astuce/Note/Info/Attention]({{%relref "shortcodes/notice.fr.md" %}}), [Expand]({{%relref "shortcodes/expand.fr.md" %}})
 
 ![Screenshot](https://github.com/matcornic/hugo-theme-learn/raw/master/images/screenshot.png?width=40pc&classes=shadow)
 
