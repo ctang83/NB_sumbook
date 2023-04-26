@@ -1,9 +1,7 @@
 ---
-title: HE
+title: R/Stata_Stated Preference
 weight: 40
 ---
-
-# R/Stata_Stated Preference
 
 - How to refer to a variable name with spaces?  
 答: backticks `` (反引号), 如模型:  
