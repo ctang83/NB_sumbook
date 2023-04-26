@@ -1,23 +1,23 @@
 [build]
   publish = "public"
-  command = "hugo -s"
+  command = "hugo --gc --minify -b $URL"
 
 [build.environment]
   HUGO_THEME = "repo"
   HUGO_THEMESDIR = "/opt/build"
-  HUGO_VERSION = "0.72.0"
+  HUGO_VERSION = "0.91.2"
 
 [context.production.environment]
-  HUGO_BASEURL = ""
+  HUGO_ENV = "production"
 
 [context.deploy-preview]
-  command = "hugo -s  -b $DEPLOY_PRIME_URL"
+  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
 
 [context.deploy-preview.environment]
   HUGO_ENABLEGITINFO = "true"
 
 [context.branch-deplpy]
-  command = "hugo -s  -b $DEPLOY_PRIME_URL"
+  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy.environment]
   HUGO_ENABLEGITINFO = "true"
