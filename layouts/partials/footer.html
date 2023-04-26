@@ -1,5 +1,7 @@
-        {{ if .Params.chapter }}
-            </div> <!-- end chapter-->
+        {{ if .Params.section }}
+        </div> <!-- end chapter-->
+        {{ else if .Params.chapter }}
+        </div> <!-- end chapter-->
         {{ end }}
         </div>
         {{ partial "custom-comments.html" . }}
@@ -66,18 +68,44 @@
     <script src="{{"js/modernizr.custom-3.6.0.js" | relURL}}{{ if not .Site.Params.disableAssetsBusting }}?{{ now.Unix }}{{ end }}"></script>
     <script src="{{"js/learn.js" | relURL}}{{ if not .Site.Params.disableAssetsBusting }}?{{ now.Unix }}{{ end }}"></script>
     <script src="{{"js/hugo-learn.js" | relURL}}{{ if not .Site.Params.disableAssetsBusting }}?{{ now.Unix }}{{ end }}"></script>
+    <script src="{{"js/themer.js" | relURL}}{{ if not .Site.Params.disableAssetsBusting }}?{{ now.Unix }}{{ end }}"></script>
+
     {{ if (or (and (ne .Params.disableMermaid nil) (not .Params.disableMermaid)) (not .Site.Params.disableMermaid)) }}
-        {{ if isset .Params "custommermaidurl" }}
+        {{ if isset .Params "customMermaidURL" }}
             <script src="{{ .Params.customMermaidURL }}"></script>
-        {{ else if isset .Site.Params "custommermaidurl" }}
+        {{ else if isset .Site.Params "customMermaidURL" }}
             <script src="{{ .Site.Params.customMermaidURL }}"></script>
         {{ else }}
             <script src="{{"mermaid/mermaid.js" | relURL}}{{ if not .Site.Params.disableAssetsBusting }}?{{ now.Unix }}{{ end }}"></script>
         {{ end }}
         <script>
-            mermaid.initialize({ startOnLoad: true });
+            var mer_theme = localStorage.getItem('theme');
+            if(mer_theme !== 'dark'){
+                mer_theme = 'neutral'
+            }
+            mermaid.initialize({ 
+                startOnLoad: true,
+                'securityLevel': 'loose', 
+                'theme': mer_theme });
         </script>
     {{ end }}
+
+    {{ if eq ($.Scratch.Get "output-tele") "tele" }}
+        <script src="{{"js/tele-scroll.js" | relURL}}{{ if not .Site.Params.disableAssetsBusting }}?{{ now.Unix }}{{ end }}"></script>
+        <script src="{{"js/hideyt.js" | relURL}}{{ if not .Site.Params.disableAssetsBusting }}?{{ now.Unix }}{{ end }}"></script>
+    {{ end }}
+
+    {{ if (.HasShortcode "encrypt") }}
+    <script src="{{"js/sjcl.js" | relURL}}{{ if not .Site.Params.disableAssetsBusting }}?{{ now.Unix }}{{ end }}"></script>
+    <script src="{{"js/encrypt.js" | relURL}}{{ if not .Site.Params.disableAssetsBusting }}?{{ now.Unix }}{{ end }}"></script>
+    {{ end }}
+    {{ if (or .Site.Params.linenumbers .Params.linenumbers) }}
+    <script src="{{"js/highlightjs-line-numbers.min.js" | relURL}}{{ if not .Site.Params.disableAssetsBusting }}?{{ now.Unix }}{{ end }}"></script>
+    <script>hljs.initLineNumbersOnLoad({
+        singleLine: false
+    });</script>
+    {{ end }}
+
     {{ partial "custom-footer.html" . }}
   </body>
 </html>

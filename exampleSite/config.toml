@@ -2,22 +2,22 @@ baseURL = "/"
 languageCode = "en-US"
 defaultContentLanguage = "en"
 
-title = "rrrrr"
+title = "Hugo Learn Documentation"
 theme = "hugo-theme-learn"
 themesdir = "../.."
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
 
 [params]
-  editURL = ""
-  description = "eee"
+  editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
+  description = "Documentation for Hugo Learn Theme"
   author = "Mathieu Cornic"
-  showVisitedLinks = false
+  showVisitedLinks = true
   disableBreadcrumb = false
   disableNextPrev = false
-  disableLandingPageButton = false
+  disableLandingPageButton = true
   disableMermaid = false
-  customMermaidURL = ""
+  customMermaidURL = "https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js"
   titleSeparator = "::"
 
 [outputs]

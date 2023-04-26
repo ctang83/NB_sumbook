@@ -228,11 +228,13 @@ jQuery(document).ready(function() {
 
     // clipboard
     var clipInit = false;
-    $('code').each(function() {
+    //russfeld will only add clipboard to pre code blocks
+    //and not all inline code blocks
+    $('pre code').each(function() {
         var code = $(this),
             text = code.text();
 
-        if (text.length > 5) {
+        if (text.length > 5 && (!$(this).parent().parent().is('td') || ($(this).parent().parent().is('td') && $(this).parent().parent().index() == 1))) {
             if (!clipInit) {
                 var text, clip = new ClipboardJS('.copy-to-clipboard', {
                     text: function(trigger) {
