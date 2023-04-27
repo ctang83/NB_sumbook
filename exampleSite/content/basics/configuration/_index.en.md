@@ -1,7 +1,7 @@
 ---
 date: 2016-04-09T16:50:16+02:00
 title: Configuration
-weight: 20
+weight: 90
 ---
 
 ## Global site parameters
@@ -20,38 +20,6 @@ Note that some of these parameters are explained in details in other sections of
   author = ""
   # Description of the site, will be used in meta information
   description = ""
-  # Shows a checkmark for visited pages on the menu
-  showVisitedLinks = false
-  # Disable search function. It will hide search bar
-  disableSearch = false
-  # Javascript and CSS cache are automatically busted when new version of site is generated.
-  # Set this to true to disable this behavior (some proxies don't handle well this optimization)
-  disableAssetsBusting = false
-  # Set this to true to disable copy-to-clipboard button for inline code.
-  disableInlineCopyToClipBoard = false
-  # A title for shortcuts in menu is set by default. Set this to true to disable it.
-  disableShortcutsTitle = false
-  # If set to false, a Home button will appear below the search bar on the menu.
-  # It is redirecting to the landing page of the current language if specified. (Default is "/")
-  disableLandingPageButton = true
-  # When using mulitlingual website, disable the switch language button.
-  disableLanguageSwitchingButton = false
-  # Hide breadcrumbs in the header and only show the current page title
-  disableBreadcrumb = true
-  # If set to true, prevents Hugo from including the mermaid module if not needed (will reduce load times and traffic)
-  disableMermaid = false
-  # Specifies the remote location of the mermaid js
-  customMermaidURL = "https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js"
-  # Hide Next and Previous page buttons normally displayed full height beside content
-  disableNextPrev = true
-  # Order sections in menu by "weight" or "title". Default to "weight"
-  ordersectionsby = "weight"
-  # Change default color scheme with a variant one. Can be "red", "blue", "green".
-  themeVariant = ""
-  # Provide a list of custom css files to load relative from the `static/` folder in the site root.
-  custom_css = ["css/foo.css", "css/bar.css"]
-  # Change the title separator. Default to "::".
-  titleSeparator = "-"
 ```
 
 ## Activate search
@@ -110,3 +78,17 @@ landingPageName = "<i class='fas fa-home'></i> Home"
 The home button is going to looks like this:
 
 ![Default Home Button](/en/basics/configuration/images/home_button_defaults.jpg?width=100%)
+
+[Hugo-theme-learn](http://github.com/matcornic/hugo-theme-learn) is a theme for [Hugo](https://gohugo.io/), a fast and modern static website engine written in Go. Where Hugo is often used for blogs, this multilingual-ready theme is **fully designed for documentation**.
+
+{{% notice tip %}}
+Learn theme works with a _page tree structure_ to organize content : All contents are pages, which belong to other pages. [read more about this]({{%relref "cont/pages/_index.md"%}}) 
+{{% /notice %}}
+
+## Main features
+
+Feel free to update this content, just click the **Edit this page** link displayed on top right of each page, and pullrequest it
+
+{{% notice note %}}
+Automatically published and hosted thanks to [Netlify](https://www.netlify.com/). Read more about [Automated HUGO deployments with Netlify](https://www.netlify.com/blog/2015/07/30/hosting-hugo-on-netlifyinsanely-fast-deploys/)
+{{% /notice %}}

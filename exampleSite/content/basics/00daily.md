@@ -1,18 +1,7 @@
---- 
-title: "My Notebook"
-author: "CTang"
-date: "`r Sys.Date()`"
-site: bookdown::bookdown_site
-# output: bookdown::gitbook
-documentclass: book
-bibliography: [book.bib, packages.bib]
-biblio-style: apalike
-link-citations: yes
-github-repo: ctang83/NB_tang
-description: "Recording my learning stuff."
 ---
-
-# Intro & Records {#intro}
+title: My notebook
+weight: 10
+---
 
 This notebook covers my daily improvements in both knowledges and skills.
 
