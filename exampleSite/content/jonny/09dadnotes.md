@@ -1,6 +1,7 @@
-# Dad notes
-
-
+---
+title: Dad notes
+weight: 50
+---
 
 
 **寻找数学应用课程**

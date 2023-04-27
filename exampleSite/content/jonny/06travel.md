@@ -1,4 +1,7 @@
-# Travelling
+---
+title: Travelling
+weight: 20
+---
 
 **Places for World travelling**
 

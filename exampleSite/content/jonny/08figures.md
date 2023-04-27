@@ -1,4 +1,8 @@
-# Jonny's figures
+---
+title: Jonny's figures
+weight: 30
+---
+
 
 This figures notebook includes Jonny's collection of MAPs and GEO-related pictures. 这是悉悉的地图收集和地理书.
 

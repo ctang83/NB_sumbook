@@ -1,21 +1,11 @@
---- 
-title: "Jonny Tang's Notebook"
-author: "Jonny (Jingzhe) Tang"
-date: "`r Sys.Date()`"
-site: bookdown::bookdown_site
-# output: bookdown::gitbook
-documentclass: book
-bibliography: [book.bib]
-biblio-style: apalike
-link-citations: yes
-github-repo: ctang83/jonny
-description: "Jobs"
+---
+title: Jonny
+weight: 15
+pre: "<b>1. </b>"
+chapter: true
 ---
 
-# Introduction
-
-本笔记直接RStudio操作build，再publish到bookdown网站。
-
+### Chapter 1
 
 ## Year 11
 
@@ -91,5 +81,6 @@ $$
 	1. MIT [Introduction To Analysis](https://ocw.mit.edu/courses/18-100a-introduction-to-analysis-fall-2012/pages/syllabus/)
 		- 大学数学系水平
 		- Prerequisite: [单变量](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/syllabus/), [多变量](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/pages/syllabus/), 微分方程
+
 
 
