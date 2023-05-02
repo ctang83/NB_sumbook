@@ -3,6 +3,161 @@ title: Dad notes
 weight: 50
 ---
 
+[How to become a pure mathematician](http://hbpms.blogspot.com/) 有很多学习资料推荐
+
+Stage 1
+ ├── Elementary Stuff: Trigonometry, Geometry
+ ├── Introductory Discrete Mathematics: logic, set theory, proofs, functions, graph theory, number theory, Euclid's algorithm, discrete probability
+ ├── Introductory Algebra: Complex number, polynomials, matrix, system of equation, Gaussian elimination, vector space
+ └── Introductory Calculus: The first thing is the definition of limit(the epsilon and delta proof)
+Stage 2
+ ├── Linear Algebra: 
+ ├── Introductory Higher Algebra: prime numbers, tests for primality, Fundamental Theorem of Arithmetic, Fermat's little theorem, Gauss' lemma, Euler's theorem. Connects Stage 1-algebra, discrete mathematics and Stage 3-abstract algebra.
+ ├── Calculus: Introductory Real Analysis, Several Variables Calculus, Vector Calculus
+ ├── Introductory Complex Analysis
+ ├── Differential Equation
+ └── Probability and Statistics
+Stage 3
+ ├── Introductory Analysis
+ ├── Abstract Algebra
+ ├── Introductory Number Theory
+ ├── Introductory Topology
+ ├── Differential Geometry
+ ├── Mathematical Modelling (optional)
+ └── Probability and Stochastic Processes, Statistical Inference, Statistical Computing (optional)
+
+[Introduction to the Mathematics Subject Classification (MSC)](http://web.archive.org/web/20150415090647/http://www.math.niu.edu/~rusin/known-math/index/beginners.html)
+
+    Mathematical logic, set theory
+    ├── General logic(Symbolic logic) 
+    ├── Proof theory and constructive mathematics: proof theory is syntax in nature, while model theory is semantic
+    ├── Model theory: Gödel incompleteness theorem, Church's recursion theory, first-order logic
+    └── Set theory axiomatizations of sets, cardinal and ordinal arithmetic
+    Algebraic areas
+    ├── Number theory: congruences, divisibility, primes, rings and fields of numbers, cryptography
+    ├── Group theory: Finite groups, symmetries, Lie groups(eg. solve differential equations)
+    ├── Rings: Commutative rings, Associative ring theory (non-commutative), Nonassociative ring theory
+    ├── Field theory: sets (real number line), polynomial equations, thus applying to number theory, group theory
+    ├── General algebraic systems: axiom structure, groups, rings, fields, other algebraic systems
+    ├── Algebraic geometry: geometry of sets defined by equations
+    ├── Linear algebra, matrix theory, considers sets and functions which preserve linear structure
+    ├── Category theory: a new field, provides a universal framework for algebra and geometry, homological algebra
+    ├── K-theory: vector bundles, topological spaces, now defined for (modules over) rings
+    ├── Combinatorics, or Discrete Mathematics: structure of sets, graph theory
+    └── Ordered sets
+    Geometric Areas 
+    ├── Geometry: Euclidean geometry, synthetic(non-Euclidean), analytic, incidence geometries, combinatorial geometries 
+    ├── Convex and discrete geometry: overlaps discrete mathematics and group theory
+    ├── Differential geometry: language of modern physics, measure of distances, local questions(differential equations), global questions (algebraic topology)
+    ├── General topology: set-theoretic conundra
+    ├── Algebraic topology: homology theories, homotopy groups, groups of maps, homological algebra
+    └── Manifolds流形 are spaces like the sphere which look locally like Euclidean space, knot theory
+    Mathematical Analysis 
+    ├── Calculus, Real Analysis
+    │   ├── Real functions: their derivatives, integrals, and general inequalities
+    │   ├── Special functions: hypergeometric functions, orthogonal polynomials
+    │   ├── Measure theory and integration: lengths, surface area, volumes in general spaces; the framework for probability theory; Measure theory = real functions + set theory; the setting for fractals
+    │   ├── Finite differences and functional equations: difference equations, and functional equations
+    │   └── Sequences and series: examples of limiting processes; computing sums; Series can be estimated with integrals
+    ├── Complex variable Analysis
+    │   ├── Complex variables studies the effect of assuming differentiability of functions defined on complex numbers
+    │   ├── Potential theory: harmonic functions, Laplace equation; physically, they are potential energy throughout space 
+    │   └── Several complex variables: polynomials, algebraic geometry, automorphisms
+    ├── Differential and integral equations:
+    │   ├── Ordinary differential equations 
+    │   ├── Partial differential equations begin with much the same formulation as ordinary differential equations
+    │   ├── Dynamical systems: iteration of functions from a space to itself, the chaotic behaviour of limiting systems
+    │   ├── Integral equations: qualitative questions, methods of approximation, transforms and operators 
+    │   ├── Calculus of variations and optimization: applies to optimization problems in physical, economics or control theory
+    │   └── Global analysis, or analysis on manifolds, studies the global nature of differential equations on manifolds
+    ├── Functional Analysis
+    │   ├── Functional analysis views the big picture in differential equations, for example, thinking of a differential operator as a linear map on a large set of functions
+    │   ├── Fourier analysis studies approximations and decompositions of functions using trigonometric polynomials
+    │   ├── Abstract harmonic analysis: analysis on Lie groups or locally compact Abelian groups
+    │   ├── Integral transforms: Fourier transform, Laplace transforms, convolution operators, operational calculi
+    │   └── Operator theory: transformations between the vector spaces studied in Functional Analysis
+    ├── Numerical Analysis and Optimization
+    │   ├── Numerical analysis: producing a sequence of approximations mostly; convergence, numerical simulation
+    │   ├── Approximations and expansions: polynomials(Taylor), trigonometric polynomials in Fourier analysis
+    │   ├── Operations research: optimal resource allocation, linear programming, optimization
+    │   └── Mathematical economics, Game theory, economics, social and behavioral sciences
+    Probability and Statistics; Computer science and Information theory
+    Applications to the sciences
+    ├── Mechanics of particles and systems: Uses variational principles(energy-minimization) and differential equations.
+    ├── Mechanics of solids: elasticity and plasticity, wave propagation
+    ├── Fluid mechanics: air, water, fluids in motion
+    ├── Optics, electromagnetic theory 
+    ├── Classical thermodynamics, heat transfer: including phase change and combustion, fourier series
+    ├── Quantum Theory: the Schrödinger equation. Lie group, Functional analysis, Yang-Mills problems, Feynman diagrams
+    ├── Statistical mechanics, structure of matter: stochastic systems and moving or evolving systems
+    ├── Relativity and gravitational theory is differential geometry, analysis, and group theory applied to physics on a grand scale or in extreme situations (e.g. black holes and cosmology)
+    ├── Astronomy and astrophysics: the structure, evolution, and interaction of stars and galaxies
+    ├── Geophysics: material in Mechanics and Fluid mechanics for large-scale solid and a pool of fluid
+    ├── Systems theory; control study the evolution of complex systems. Stability (steady-state) and the effects of random changes and noise (stochastic systems). "cybernetics" or "robotics", the application of differential/difference equations, functional analysis, numerical analysis, and global analysis (or differential geometry)
+    └── Other sciences: Chemistry, Biology, Genetics, Medicine, Psychology, Sociology, and other social sciences
+
+with top-level subject areas: 
+
+03: Mathematical logic and foundations	数理逻辑与基础
+05: Combinatorics and graph theory	组合数学和图论
+06: Order, lattices, ordered algebraic structures	阶、格、有序代数结构
+08: General algebraic systems	一般代数系统
+11: Number theory	数论
+12: Field theory and polynomials	场论和多项式
+13: Commutative rings and algebras	交换环和代数
+14: Algebraic geometry	代数几何
+15: Linear and multilinear algebra; matrix theory	线性和多重线性代数；矩阵理论
+16: Associative rings and algebras	结合环和代数
+17: Nonassociative rings and algebras	非结合环和代数
+18: Category theory, homological algebra	范畴论，同调代数
+19: K-theory	K理论
+20: Group theory and generalizations	群论和概括
+22: Topological groups, Lie groups	拓扑群，李群
+26: Real functions and elementary calculus	实函数和初等微积分
+28: Measure and integration	测量与积分
+30: Functions of a complex variable	复杂变量的函数
+31: Potential theory	势能论
+32: Several complex variables and analytic spaces	几个复杂的变量和解析空间
+33: Special functions including trigonometric functions	包括三角函数在内的 特殊函数
+34: Ordinary differential equations	常微分方程
+35: Partial differential equations	偏微分方程
+37: Dynamical systems and ergodic theory	动力系统和遍历理论
+39: Difference and functional equations	差分方程和函数方程
+40: Sequences, series, summability	序列、系列、可求和性
+41: Approximations and expansions	近似和扩展
+42: Fourier analysis	傅里叶分析
+43: Abstract harmonic analysis	抽象调和分析
+44: Integral transforms, operational calculus	积分变换，运算
+45: Integral equations	积分方程
+46: Functional analysis	功能分析
+47: Operator theory	算子理论
+49: Calculus of variations and optimal control; optimization	变分法和最优控制；优化
+51: Geometry, including classic Euclidean geometry	几何，包括经典的欧氏几何
+52: Convex and discrete geometry	凸和离散几何
+53: Differential geometry	微分几何
+54: General topology	一般拓扑
+55: Algebraic topology	代数拓扑
+57: Manifolds and cell complexes	歧管和细胞复合体
+58: Global analysis, analysis on manifolds	全局分析，流形分析
+60: Probability theory and stochastic processes	概率论和随机过程
+62: Statistics	统计数据
+65: Numerical analysis	数值分析
+68: Computer science	计算机科学
+70: Mechanics of particles and systems	粒子和系统力学
+74: Mechanics of deformable solids	可变形固体力学
+76: Fluid mechanics	流体力学
+78: Optics, electromagnetic theory	光学、电磁理论
+80: Classical thermodynamics, heat transfer	经典热力学，传热
+81: Quantum Theory	量子理论
+82: Statistical mechanics, structure of matter	统计力学，物质结构
+83: Relativity and gravitational theory	相对论和引力理论
+85: Astronomy and astrophysics	天文学和天体物理学
+86: Geophysics	地球物理学
+90: Operations research, mathematical programming	运筹学、数学规划
+91: Game theory, economics, social and behavioral sciences	博弈论、经济学、社会和行为科学
+92: Biology and other natural sciences	生物学和其他自然科学
+93: Systems theory; control	系统论；控制
+94: Information and communication, circuits	信息与通讯、电路
 
 **寻找数学应用课程**
 
@@ -59,6 +214,7 @@ weight: 50
 - Complex analysis 复分析：the branch of mathematical analysis that investigates functions of complex numbers 复变函数
 	- 实分析中的泰勒级数和傅里叶级数, 这两者都是关于某个函数的级数展开式, 两者的系数分别是通过求导和积分得出来的, 实数世界里两者毫不相关, 复分析却告诉我们：它们是同一个东西！只是将其在不同的角度“投影”到实数世界里，就产生了不同的“物像”。所以**复数揭示了微分与积分的一种隐藏的联系--即全纯函数微分与积分等价**
 - Real analysis 实分析：实数的数学分析
+	- 知乎好贴 [数学分析的基础，从极限到全纯函数](https://zhuanlan.zhihu.com/p/585547644)
 - Functional analysis 泛函分析：
 - Vector calculus 向量分析，或向量微积分，“向量分析”有时也用作多元微积分的代名词，包括向量分析，偏微分和多重积分等多元实分析
 
