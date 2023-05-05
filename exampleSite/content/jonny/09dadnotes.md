@@ -3,28 +3,183 @@ title: Dad notes
 weight: 50
 ---
 
+**Mind Map of Math: how to build a pathway from Year 10 math to a freshman mathematician**
+
+[开源数学Openstax网站](https://openstax.org/subjects/math)：数学基础和Pre-calculus 
+
+    1. Sets
+    └── Basic Set Concepts, Subsets, Understanding Venn Diagrams, Set Operations with Two Sets and Three Sets 
+    2. Logic
+    ├── Statements and Quantifiers, Compound Statements, Constructing Truth Tables, Truth Tables for the Conditional and Biconditional
+    └── Equivalent Statements, De Morgan's Laws, Logical Arguments 
+    3. Real Number Systems and Number Theory
+    ├── Prime and Composite Numbers, The Integers, Order of Operations, Rational Numbers, Irrational Numbers
+    └── Real Numbers, Clock Arithmetic, Exponents, Scientific Notation, Arithmetic Sequences, Geometric Sequences
+    4. Number Representation and Calculation
+    ├── Hindu-Arabic Positional System, Early Numeration Systems, Converting with Base Systems
+    └── Addition and Subtraction in Base Systems, Multiplication and Division in Base Systems
+    5. Algebra
+    ├── Algebraic Expressions, Linear Equations in One Variable with Applications
+    ├── Linear Inequalities in One Variable with Applications, Ratios and Proportions, Graphing Linear Equations and Inequalities
+    ├── Quadratic Equations with Two Variables with Applications, Functions, Graphing Functions
+    └── Systems of Linear Equations in Two Variables, Systems of Linear Inequalities in Two Variables, Linear Programming
+    1. Functions
+    ├── Functions and Function Notation, Domain and Range, Rates of Change and Behavior of Graphs
+    └── Composition of Functions, Transformation of Functions, Absolute Value Functions, Inverse Functions
+    2. Linear Functions
+    └── Linear Functions, Graphs of Linear Functions, Modeling with Linear Functions, Fitting Linear Models to Data
+    3. Polynomial and Rational Functions
+    ├── Complex Numbers, Quadratic Functions, Power Functions and Polynomial Functions, Graphs, Dividing Polynomials
+    └── Zeros of Polynomial Functions, Rational Functions, Inverses and Radical Functions, Modeling Using Variation
+    4. Exponential and Logarithmic Functions
+    ├── Exponential Functions, Graphs, Logarithmic Functions, Graphs, Logarithmic Properties
+    └── Exponential and Logarithmic Equations, Exponential and Logarithmic Models, Fitting Exponential Models to Data 
+    5. Trigonometric Functions
+    ├── Angles, Unit Circle: Sine and Cosine Functions
+    └── The Other Trigonometric Functions, Right Triangle Trigonometry
+    6. Periodic Functions
+    └── Graphs of the Sine and Cosine Functions, Graphs of the Other Trigonometric Functions, Inverse Trigonometric Functions 
+    7. Trigonometric Identities and Equations
+    ├── Solving Trigonometric Equations with Identities, Sum and Difference Identities, Double-Angle, Half-Angle, and Reduction Formulas
+    └── Sum-to-Product and Product-to-Sum Formulas, Solving Trigonometric Equations, Modeling with Trigonometric Functions 
+    8. Applications of Trigonometry
+    ├── Non-right Triangles: Law of Sines, Law of Cosines, Polar Coordinates, Graphs
+    └── Polar Form of Complex Numbers, Parametric Equations, Parametric Equations: Graphs, Vectors 
+    9. Systems of Equations and Inequalities
+    ├── Systems of Linear Equations: Two Variables, Three Variables 
+    ├── Systems of Nonlinear Equations and Inequalities: Two Variables, Partial Fractions, Matrices and Matrix Operations
+    └── Solving Systems with Gaussian Elimination, Solving Systems with Inverses, Solving Systems with Cramer's Rule
+    10. Analytic Geometry
+    └── The Ellipse, The Hyperbola, The Parabola, Rotation of Axes, Conic Sections in Polar Coordinates
+    11. Sequences, Probability and Counting Theory
+    ├── Sequences and Their Notations, Arithmetic Sequences, Geometric Sequences, Series and Their Notations
+    └── Counting Principles, Binomial Theorem, Probability
+
+[开源数学Openstax网站](https://openstax.org/subjects/math)：Calculus 
+
+    1. Limits
+    ├── A Preview of Calculus, The Limit of a Function, The Limit Laws
+    └── Continuity, The Precise Definition of a Limit 
+    2. Derivatives
+    ├── Defining the Derivative, The Derivative as a Function, Differentiation Rules, 
+    ├── Derivatives as Rates of Change, Derivatives of Trigonometric Functions, The Chain Rule, Derivatives of Inverse Functions
+    └── Implicit Differentiation, Derivatives of Exponential and Logarithmic Functions
+    3. Applications of Derivatives
+    ├── Related Rates, Linear Approximations and Differentials, Maxima and Minima, The Mean Value Theorem
+    ├── Derivatives and the Shape of a Graph, Limits at Infinity and Asymptotes
+    └── Applied Optimization Problems, L’Hôpital’s Rule, Newton’s Method, Antiderivatives
+    4. Integration
+    ├── Approximating Areas, The Definite Integral, The Fundamental Theorem of Calculus
+    ├── Integration Formulas and the Net Change Theorem, Substitution
+    └── Integrals Involving Exponential and Logarithmic Functions, Integrals Resulting in Inverse Trigonometric Functions
+    5. Applications of Integration
+    ├── Areas between Curves, Determining Volumes by Slicing, Volumes of Revolution: Cylindrical Shells 
+    ├── Arc Length of a Curve and Surface Area, Physical Applications, Moments and Centers of Mass
+    └── Integrals/Exponential Functions/Logarithms, Exponential Growth and Decay, Calculus of the Hyperbolic Functions
+    6. Techniques of Integration
+    ├── Integration by Parts, Trigonometric Integrals, Trigonometric Substitution, Partial Fractions
+    └── Other Strategies for Integration, Numerical Integration, Improper Integrals
+    7. Introduction to Differential Equations
+    ├── Basics of Differential Equations, Direction Fields and Numerical Methods
+    └── Separable Equations, The Logistic Equation, First-order Linear Equations
+    8. Sequences and Series
+    ├── Sequences, Infinite Series, The Divergence and Integral Tests
+    └── Comparison Tests, Alternating Series, Ratio and Root Tests
+    9. Power Series
+    ├── Power Series and Functions, Properties of Power Series
+    └── Taylor and Maclaurin Series, Working with Taylor Series
+    10. Parametric Equations and Polar Coordinates
+    ├── Parametric Equations, Calculus of Parametric Curves
+    └── Polar Coordinates, Area and Arc Length in Polar Coordinates, Conic Sections
+    11. Vectors in Space
+    ├── Vectors in the Plane, Vectors in Three Dimensions, The Dot Product, The Cross Product
+    └── Equations of Lines and Planes in Space, Quadric Surfaces, Cylindrical and Spherical Coordinates
+    12. Vector-Valued Functions
+    ├── Vector-Valued Functions and Space Curves
+    └── Calculus of Vector-Valued Functions, Arc Length and Curvature, Motion in Space
+    13. Differentiation of Functions of Several Variables
+    ├── Functions of Several Variables, Limits and Continuity, Partial Derivatives, Tangent Planes and Linear Approximations
+    └── The Chain Rule, Directional Derivatives and the Gradient, Maxima/Minima Problems, Lagrange Multipliers
+    14. Multiple Integration
+    ├── Double Integrals over Rectangular Regions, Double Integrals over General Regions, Double Integrals in Polar Coordinates
+    ├── Triple Integrals, Triple Integrals in Cylindrical and Spherical Coordinates
+    └── Calculating Centers of Mass and Moments of Inertia, Change of Variables in Multiple Integral
+    15. Vector Calculus
+    ├── Vector Fields, Line Integrals, Conservative Vector Fields, Green’s Theorem
+    └── Divergence and Curl, Surface Integrals, Stokes’ Theorem, The Divergence Theorem
+    16. Second-Order Differential Equations
+    ├── Second-Order Linear Equations, Nonhomogeneous Linear Equations
+    └── Applications, Series Solutions of Differential Equations
+
+
+[A Concise Introduction to Pure Mathematics 2016, Martin Liebeck]
+
+    Number theory
+    ├── Sets and Proofs
+    ├── Number Systems, Decimals
+    ├── n^th Roots and Rational Powers
+    ├── Inequalities, Complex Numbers, Polynomial Equations, The Integers, 
+    ├── Induction, Euler’s Formula and Platonic Solids
+    └── Prime Factorization, More on Prime Numbers, Congruence of Integers, More on Congruence, Secret Codes
+    Discrete mathematics
+    └── Counting and Choosing, More on Sets, Equivalence Relations, Permutations
+    Analysis
+    ├── Functions, 
+    ├── Infinity, 
+    ├── Introduction to Analysis: Bounds
+    └── Limits, Continuity
+    Abstract Algebra
+    └── Groups
+
+[Pure Mathematics for Beginners:A Rigorous Introduction to](https://www.udemy.com/user/steve-warner-7/) 他的设计一层是 for pre-beginner，二层是 beginner
+
+    1. Logic
+    ├── Statements and Truth: Statements with Words, Statements with Symbols, Truth Tables
+    └── Logical Arguments: Statements and Substatements, Logical Equivalence, Validity in Sentential Logic
+    2. Set Theory
+    ├── Sets and Subsets: Describing Sets, Subsets, Unions and Intersections
+    └── Relations and Functions: Relations, Equivalence Relations and Partitions, Orderings, Functions, Equinumerosity
+    3. Abstract Algebra
+    ├── Semigroups, Monoids, Groups: Binary Operations and Closure, Semigroups and Associativity, Monoids and Identity, Groups and Inverses
+    └── Structures and Homomorphisms: Structures and Substructures, Homomorphisms, Images and Kernels, Normal Subgroups and Ring Ideals
+    4. Number Theory
+    ├── The Ring of Integers: Rings and Distributivity, Divisibility, Induction
+    └── Primes, GCD, and LCM: Prime Numbers, The Division Algorithm, GCD and LCM
+    5. Real Analysis
+    ├── The Complete Ordered Field of Reals: Fields, Ordered Rings and Fields, Why Isn’t ℚ enough?, Completeness
+    └── Limits and Continuity: Strips and Rectangles, Limits and Continuity, Equivalent Definitions of Limits and Continuity, Basic Examples, Limit and Continuity Theorems, Limits Involving Infinity, One-sided Limits
+    6. Topology
+    ├── The Topology of ℝ: Intervals of Real Numbers, Operations on Sets, Open and Closed Sets
+    └── Spaces and Homeomorphisms: Topological Spaces, Bases, Types of Topological Spaces, Continuous Functions and Homeomorphisms
+    7. Complex Analysis
+    ├── The Field of Complex Numbers: Limitation of the Reals, The Complex Field, Absolute Value and Distance, Basic Topology of ℂ
+    └── Complex Valued Functions: The Unit Circle, Exponential Form of Complex Number, Functions of Complex Variable, Limits and Continuity, The Reimann Sphere
+    8. Linear Algebra
+    ├── Vector Spaces: Vector Spaces Over Fields, Subspaces, Bases
+    └── Linear Transformations: Linear Transformations, Matrices, The Matrix of a Linear Transformation, Images and Kernels, Eigenvalues and Eigenvectors
+
 [How to become a pure mathematician](http://hbpms.blogspot.com/) 有很多学习资料推荐
 
-Stage 1
- ├── Elementary Stuff: Trigonometry, Geometry
- ├── Introductory Discrete Mathematics: logic, set theory, proofs, functions, graph theory, number theory, Euclid's algorithm, discrete probability
- ├── Introductory Algebra: Complex number, polynomials, matrix, system of equation, Gaussian elimination, vector space
- └── Introductory Calculus: The first thing is the definition of limit(the epsilon and delta proof)
-Stage 2
- ├── Linear Algebra: 
- ├── Introductory Higher Algebra: prime numbers, tests for primality, Fundamental Theorem of Arithmetic, Fermat's little theorem, Gauss' lemma, Euler's theorem. Connects Stage 1-algebra, discrete mathematics and Stage 3-abstract algebra.
- ├── Calculus: Introductory Real Analysis, Several Variables Calculus, Vector Calculus
- ├── Introductory Complex Analysis
- ├── Differential Equation
- └── Probability and Statistics
-Stage 3
- ├── Introductory Analysis
- ├── Abstract Algebra
- ├── Introductory Number Theory
- ├── Introductory Topology
- ├── Differential Geometry
- ├── Mathematical Modelling (optional)
- └── Probability and Stochastic Processes, Statistical Inference, Statistical Computing (optional)
+    Stage 1
+    ├── Elementary Stuff: Trigonometry, Geometry
+    ├── Introductory Discrete Mathematics: logic, set theory, proofs, functions, graph theory, number theory, Euclid's algorithm, discrete probability
+    ├── Introductory Algebra: Complex number, polynomials, matrix, system of equation, Gaussian elimination, vector space
+    └── Introductory Calculus: The first thing is the definition of limit(the epsilon and delta proof)
+    Stage 2
+    ├── Linear Algebra: 
+    ├── Introductory Higher Algebra: prime numbers, tests for primality, Fundamental Theorem of Arithmetic, Fermat's little theorem, Gauss' lemma, Euler's theorem. Connects Stage 1-algebra, discrete mathematics and Stage 3-abstract algebra.
+    ├── Calculus: Introductory Real Analysis, Several Variables Calculus, Vector Calculus
+    ├── Introductory Complex Analysis
+    ├── Differential Equation
+    └── Probability and Statistics
+    Stage 3
+    ├── Introductory Analysis
+    ├── Abstract Algebra
+    ├── Introductory Number Theory
+    ├── Introductory Topology
+    ├── Differential Geometry
+    ├── Mathematical Modelling (optional)
+    └── Probability and Stochastic Processes, Statistical Inference, Statistical Computing (optional)
 
 [Introduction to the Mathematics Subject Classification (MSC)](http://web.archive.org/web/20150415090647/http://www.math.niu.edu/~rusin/known-math/index/beginners.html)
 
@@ -158,6 +313,11 @@ with top-level subject areas:
 92: Biology and other natural sciences	生物学和其他自然科学
 93: Systems theory; control	系统论；控制
 94: Information and communication, circuits	信息与通讯、电路
+
+**lottery 数学**
+
+- Google搜："python lottery analysis", "number theory behind lottery"
+
 
 **寻找数学应用课程**
 
