@@ -3,22 +3,31 @@ title: Dad notes
 weight: 50
 ---
 
+
+[The Wiley Handbook of Genius](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118367377)：一本从多学科研究超常儿童的书籍，涵盖天才的起源、特征、职业和后果，重点关注认知科学、个体差异、寿命发展和社会背景；探索个人天才、创造者、领导者和表演者，
+
+- 第15节[Child Prodigies and Adult Genius: A Weak Link](https://doi.org/10.1002/9781118367377.ch15)资优儿童具有三个非典型特征：他们早熟，他们的学习方式与典型儿童不同，以及他们学习的强烈动机（表现出对掌握的狂热）。高智商天赋有时是全局性的（语言和数学领域表现出相当的能力）但也往往非常不均衡。有艺术天赋的孩子往往被贴上天赋而非天才的标签，但无论是学业天赋还是艺术天赋，他们都表现出相同的三个特征。天赋的迹象很早就出现了，在生命的头两三年，而且迹象是特定领域的。尽管试图从后天的角度来解释天赋，但没有证据可以让我们排除先天成分。资优儿童的家庭有一系列特征（例如，以儿童为中心、提供丰富的环境、有很高的期望、授予独立性），但我们不能断定这些特征会导致资优发展。天赋越极端，孩子就越难找到像他/她自己的人，因此孩子就越有可能出现社交和情感困难。童年天赋与成年天才之间的联系是微弱的：虽然许多有天赋的孩子在各自领域变得出色，但大多数不具备成年天才的资格。讨论了造成这种情况的许多可能原因，包括成为天才儿童的技能涉及对领域的掌握，而成为天才的技能涉及领域的转变。
+- 第19节[The Study of Mathematically Precocious Youth at Maturity: Insights into Elements of Genius](https://doi.org/10.1002/9781118367377.ch19)，The Study of Mathematically Precocious Youth (SMPY)队列研究：智力早熟可能出现的许多不同方式，教育干预是否有帮助，那些成为杰出人士/不杰出人士的个人特征。提出了一个人才发展模型（天才的逆向工程学），该模型组织了卓越成就的关键认知cognitive、情感affective和意向conative等决定因素。
+    
+
+
+
 **Mind Map of Math: how to build a pathway from Year 10 math to a freshman mathematician**
 
 [开源数学Openstax网站](https://openstax.org/subjects/math)：数学基础和Pre-calculus 
 
-    1. Sets
+    Sets
     └── Basic Set Concepts, Subsets, Understanding Venn Diagrams, Set Operations with Two Sets and Three Sets 
-    2. Logic
-    ├── Statements and Quantifiers, Compound Statements, Constructing Truth Tables, Truth Tables for the Conditional and Biconditional
-    └── Equivalent Statements, De Morgan's Laws, Logical Arguments 
-    3. Real Number Systems and Number Theory
+    Logic
+    ├── Statements and Quantifiers, Compound Statements, Constructing Truth Tables
+    └── Truth Tables for Conditional and Biconditional, Equivalent Statements, De Morgan's Laws, Logical Arguments 
+    Real Number Systems and Number Theory
     ├── Prime and Composite Numbers, The Integers, Order of Operations, Rational Numbers, Irrational Numbers
     └── Real Numbers, Clock Arithmetic, Exponents, Scientific Notation, Arithmetic Sequences, Geometric Sequences
-    4. Number Representation and Calculation
+    Number Representation and Calculation
     ├── Hindu-Arabic Positional System, Early Numeration Systems, Converting with Base Systems
     └── Addition and Subtraction in Base Systems, Multiplication and Division in Base Systems
-    5. Algebra
+    Algebra
     ├── Algebraic Expressions, Linear Equations in One Variable with Applications
     ├── Linear Inequalities in One Variable with Applications, Ratios and Proportions, Graphing Linear Equations and Inequalities
     ├── Quadratic Equations with Two Variables with Applications, Functions, Graphing Functions
@@ -40,8 +49,9 @@ weight: 50
     6. Periodic Functions
     └── Graphs of the Sine and Cosine Functions, Graphs of the Other Trigonometric Functions, Inverse Trigonometric Functions 
     7. Trigonometric Identities and Equations
-    ├── Solving Trigonometric Equations with Identities, Sum and Difference Identities, Double-Angle, Half-Angle, and Reduction Formulas
-    └── Sum-to-Product and Product-to-Sum Formulas, Solving Trigonometric Equations, Modeling with Trigonometric Functions 
+    ├── Solving Trigonometric Equations with Identities, Sum and Difference Identities, Double-Angle
+    ├── Half-Angle, and Reduction Formulas, Sum-to-Product and Product-to-Sum Formulas
+    └── Solving Trigonometric Equations, Modeling with Trigonometric Functions 
     8. Applications of Trigonometry
     ├── Non-right Triangles: Law of Sines, Law of Cosines, Polar Coordinates, Graphs
     └── Polar Form of Complex Numbers, Parametric Equations, Parametric Equations: Graphs, Vectors 
@@ -57,32 +67,32 @@ weight: 50
 
 [开源数学Openstax网站](https://openstax.org/subjects/math)：Calculus 
 
-    1. Limits
+    Limits
     ├── A Preview of Calculus, The Limit of a Function, The Limit Laws
     └── Continuity, The Precise Definition of a Limit 
-    2. Derivatives
+    Derivatives
     ├── Defining the Derivative, The Derivative as a Function, Differentiation Rules, 
     ├── Derivatives as Rates of Change, Derivatives of Trigonometric Functions, The Chain Rule, Derivatives of Inverse Functions
     └── Implicit Differentiation, Derivatives of Exponential and Logarithmic Functions
-    3. Applications of Derivatives
+    Applications of Derivatives
     ├── Related Rates, Linear Approximations and Differentials, Maxima and Minima, The Mean Value Theorem
     ├── Derivatives and the Shape of a Graph, Limits at Infinity and Asymptotes
     └── Applied Optimization Problems, L’Hôpital’s Rule, Newton’s Method, Antiderivatives
-    4. Integration
+    Integration
     ├── Approximating Areas, The Definite Integral, The Fundamental Theorem of Calculus
     ├── Integration Formulas and the Net Change Theorem, Substitution
     └── Integrals Involving Exponential and Logarithmic Functions, Integrals Resulting in Inverse Trigonometric Functions
-    5. Applications of Integration
+    Integration Applications
     ├── Areas between Curves, Determining Volumes by Slicing, Volumes of Revolution: Cylindrical Shells 
     ├── Arc Length of a Curve and Surface Area, Physical Applications, Moments and Centers of Mass
     └── Integrals/Exponential Functions/Logarithms, Exponential Growth and Decay, Calculus of the Hyperbolic Functions
-    6. Techniques of Integration
+    Integration Techniques
     ├── Integration by Parts, Trigonometric Integrals, Trigonometric Substitution, Partial Fractions
     └── Other Strategies for Integration, Numerical Integration, Improper Integrals
-    7. Introduction to Differential Equations
+    Introduction to Differential Equations
     ├── Basics of Differential Equations, Direction Fields and Numerical Methods
     └── Separable Equations, The Logistic Equation, First-order Linear Equations
-    8. Sequences and Series
+    Sequences and Series
     ├── Sequences, Infinite Series, The Divergence and Integral Tests
     └── Comparison Tests, Alternating Series, Ratio and Root Tests
     9. Power Series
@@ -111,7 +121,6 @@ weight: 50
     ├── Second-Order Linear Equations, Nonhomogeneous Linear Equations
     └── Applications, Series Solutions of Differential Equations
 
-
 [A Concise Introduction to Pure Mathematics 2016, Martin Liebeck]
 
     Number theory
@@ -131,32 +140,50 @@ weight: 50
     Abstract Algebra
     └── Groups
 
-[Pure Mathematics for Beginners:A Rigorous Introduction to](https://www.udemy.com/user/steve-warner-7/) 他的设计一层是 for pre-beginner，二层是 beginner
+[Pure Mathematics for Beginners:A Rigorous Introduction to 8个主题](https://www.udemy.com/user/steve-warner-7/) 他的设计是分两层，一层是 pre-beginner，二层是 beginner
 
-    1. Logic
-    ├── Statements and Truth: Statements with Words, Statements with Symbols, Truth Tables
-    └── Logical Arguments: Statements and Substatements, Logical Equivalence, Validity in Sentential Logic
-    2. Set Theory
-    ├── Sets and Subsets: Describing Sets, Subsets, Unions and Intersections
-    └── Relations and Functions: Relations, Equivalence Relations and Partitions, Orderings, Functions, Equinumerosity
-    3. Abstract Algebra
-    ├── Semigroups, Monoids, Groups: Binary Operations and Closure, Semigroups and Associativity, Monoids and Identity, Groups and Inverses
-    └── Structures and Homomorphisms: Structures and Substructures, Homomorphisms, Images and Kernels, Normal Subgroups and Ring Ideals
-    4. Number Theory
-    ├── The Ring of Integers: Rings and Distributivity, Divisibility, Induction
-    └── Primes, GCD, and LCM: Prime Numbers, The Division Algorithm, GCD and LCM
-    5. Real Analysis
-    ├── The Complete Ordered Field of Reals: Fields, Ordered Rings and Fields, Why Isn’t ℚ enough?, Completeness
-    └── Limits and Continuity: Strips and Rectangles, Limits and Continuity, Equivalent Definitions of Limits and Continuity, Basic Examples, Limit and Continuity Theorems, Limits Involving Infinity, One-sided Limits
-    6. Topology
-    ├── The Topology of ℝ: Intervals of Real Numbers, Operations on Sets, Open and Closed Sets
-    └── Spaces and Homeomorphisms: Topological Spaces, Bases, Types of Topological Spaces, Continuous Functions and Homeomorphisms
-    7. Complex Analysis
-    ├── The Field of Complex Numbers: Limitation of the Reals, The Complex Field, Absolute Value and Distance, Basic Topology of ℂ
-    └── Complex Valued Functions: The Unit Circle, Exponential Form of Complex Number, Functions of Complex Variable, Limits and Continuity, The Reimann Sphere
-    8. Linear Algebra
-    ├── Vector Spaces: Vector Spaces Over Fields, Subspaces, Bases
-    └── Linear Transformations: Linear Transformations, Matrices, The Matrix of a Linear Transformation, Images and Kernels, Eigenvalues and Eigenvectors
+    Logic
+    ├── Statements and Truth
+    │   └── Statements with Words, Statements with Symbols, Truth Tables
+    ├── Logical Arguments
+    │   └── Statements and Substatements, Logical Equivalence, Validity in Sentential Logic
+    Set Theory
+    ├── Sets and Subsets
+    │   └── Describing Sets, Subsets, Unions and Intersections
+    ├── Relations and Functions
+    │   └── Relations, Equivalence Relations and Partitions, Orderings, Functions, Equinumerosity
+    Abstract Algebra
+    ├── Semigroups, Monoids, Groups
+    │   └── Binary Operations and Closure, Semigroups and Associativity, Monoids and Identity, Groups and Inverses
+    ├── Structures and Homomorphisms
+    │   └── Structures and Substructures, Homomorphisms, Images and Kernels, Normal Subgroups and Ring Ideals
+    Number Theory
+    ├── The Ring of Integers
+    │   └── Rings and Distributivity, Divisibility, Induction
+    ├── Primes, GCD, and LCM
+    │   └── Prime Numbers, The Division Algorithm, GCD and LCM
+    Real Analysis
+    ├── The Complete Ordered Field of Reals
+    │   └── Fields, Ordered Rings and Fields, Why Isn’t ℚ enough?, Completeness
+    ├── Limits and Continuity
+    │   ├── Strips and Rectangles, Limits and Continuity, Equivalent Definitions of Limits and Continuity, 
+    │   └── Basic Examples, Limit and Continuity Theorems, Limits Involving Infinity, One-sided Limits
+    Topology
+    ├── The Topology of ℝ
+    │   └── Intervals of Real Numbers, Operations on Sets, Open and Closed Sets
+    ├── Spaces and Homeomorphisms
+    │   └── Topological Spaces, Bases, Types of Topological Spaces, Continuous Functions and Homeomorphisms
+    Complex Analysis
+    ├── The Field of Complex Numbers
+    │   └── Limitation of the Reals, The Complex Field, Absolute Value and Distance, Basic Topology of ℂ
+    ├── Complex Valued Functions
+    │   ├── The Unit Circle, Exponential Form of Complex Number, Functions of Complex Variable, 
+    │   └── Limits and Continuity, The Reimann Sphere
+    Linear Algebra
+    ├── Vector Spaces
+    │   └── Vector Spaces Over Fields, Subspaces, Bases
+    ├── Linear Transformations
+    │   └── Linear Transformations, Matrices, The Matrix of a Linear Transformation, Images and Kernels, Eigenvalues and Eigenvectors
 
 [How to become a pure mathematician](http://hbpms.blogspot.com/) 有很多学习资料推荐
 
