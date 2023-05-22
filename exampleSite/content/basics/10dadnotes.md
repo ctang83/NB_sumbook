@@ -12,6 +12,74 @@ weight: 50
 - 第15节[Child Prodigies and Adult Genius: A Weak Link](https://doi.org/10.1002/9781118367377.ch15)资优儿童具有三个非典型特征：他们早熟，他们的学习方式与典型儿童不同，以及他们学习的强烈动机（表现出对掌握的狂热）。高智商天赋有时是全局性的（语言和数学领域表现出相当的能力）但也往往非常不均衡。有艺术天赋的孩子往往被贴上天赋而非天才的标签，但无论是学业天赋还是艺术天赋，他们都表现出相同的三个特征。天赋的迹象很早就出现了，在生命的头两三年，而且迹象是特定领域的。尽管试图从后天的角度来解释天赋，但没有证据可以让我们排除先天成分。资优儿童的家庭有一系列特征（例如，以儿童为中心、提供丰富的环境、有很高的期望、授予独立性），但我们不能断定这些特征会导致资优发展。天赋越极端，孩子就越难找到像他/她自己的人，因此孩子就越有可能出现社交和情感困难。童年天赋与成年天才之间的联系是微弱的：虽然许多有天赋的孩子在各自领域变得出色，但大多数不具备成年天才的资格。讨论了造成这种情况的许多可能原因，包括成为天才儿童的技能涉及对领域的掌握，而成为天才的技能涉及领域的转变。
 - 第19节[The Study of Mathematically Precocious Youth at Maturity: Insights into Elements of Genius](https://doi.org/10.1002/9781118367377.ch19)，The Study of Mathematically Precocious Youth (SMPY)队列研究：智力早熟可能出现的许多不同方式，教育干预是否有帮助，那些成为杰出人士/不杰出人士的个人特征。提出了一个人才发展模型（天才的逆向工程学），该模型组织了卓越成就的关键认知cognitive、情感affective和意向conative等决定因素。
 
+**lottery 数学**
+
+- Google搜："python lottery analysis", "number theory behind lottery"
+
+
+**寻找数学应用课程**
+
+- Coursera搜："math physics", "python physics", "python scientific" 
+	- 昨天和梁老师聊了11-12数学学习，让我进一步思考了这个阶段的数学学习，应该是“纯数学”和“应用”共同进行了，换句话说，就是数学分析和python scientific programming要同步进行，抽象世界和真实世界（两条腿）一起进步，不止是单纯的纸面数学，因为超常儿童对真实世界的具体触摸本身较少，所以更应该加强python编程这个交互的窗口
+	- 上个千年的教育基础是“阅读、写作和算术”；现在是阅读、写作和计算。学习编程是每个学生教育的重要组成部分 The basis for education in the last millennium was “reading, writing, and arithmetic;” now it is reading, writing, and computing. Learning to program is an essential part of the education of every student
+- Google搜："real analysis python", "mathematical analysis python", 
+
+**数学系1-3年级**
+
+分析类：
+
+- 数学分析(1)：实数理论、极限、单变量微积分
+- 数学分析(2)：多变量微积分、曲面上的积分
+- 数学分析(3)：级数理论、傅立叶分析
+- 实分析：测度论和Lebesgue积分
+- 复分析(1)：最基本的复分析
+- 泛函分析：最基本的泛函分析
+- 常微分方程：存在性、唯一性、延拓定理
+- 偏微分方程(1-2)：波方程、热方程、泊松方程的存在唯一性, 椭圆方程、双曲方程、抛物方程的存在唯一正则性
+- 分析力学：Lagrange力学以及一些玄学
+- 概率论：最基本的概率论
+
+代数类：
+
+- 线性代数：矩阵与行列式, 矩阵的对角化
+- 代数学前沿基础：模论、范畴论、同调代数
+- 抽象代数(1)：基本的群环域 (学了抽象代数，相当于打开了代数类的大门)
+- 代数数论(1)：赋值理论，素数定理
+- 李群李代数：复半单李代数的表示论
+
+几何类：
+
+- 微分流形：流形的概念以及流形上常见的研究对象
+- 拓扑学：点集拓扑、基本群、复叠空间、同调理论 (学了拓扑学和微分流形，相当于打开了几何类的大门)
+
+![数系统5层](https://raw.githubusercontent.com/ctang83/NB_img/main/numbersys.png?width=35%)
+
+![自然数-整数-有理数-实数-复数](https://raw.githubusercontent.com/ctang83/NB_img/main/自然数整数有理数实数复数.png?width=90%)
+
+![Default Home Button](/en/basics/configuration/images/home_button_defaults.jpg?width=100%)
+
+
+名词解释
+
+- Category theory 范畴论：以抽象的方法来处理数学概念，将这些概念形式化成一组组的“对象”及“态射”
+- Set theory 集合论: 数理逻辑I只涉及一阶逻辑这个完备体系下的问题，尽管关系是用集合的方式表示，但是并不依赖集合论的知识。而数理逻辑II的才会讨论更一般的问题，其第一，也是最主要的部分就是集合论。所以可以把学习路线简化为： 数理逻辑的完备部分 -> 集合论 -> 数理逻辑的不完备部分
+	- 集合, 就是把一堆东西放在一起, 之间的互相作用我们称之为操作或者运算
+	- **群 = 集合 + 运算**
+- Group theory 群论：刻画结构的一种非常基础的工具。应用: 魔方，正交表，高次方程解析解，密码学，拓扑基本群
+- Measure theory 测度论：测度论是实分析的基础，就好比实数理论之于数学分析。传统的积分是在区间上进行的，后来人们希望把积分推广到任意集合上，就发展出测度的概念。
+	- 实变函数的核心是勒贝格积分，而勒贝格积分是黎曼积分的推广。黎曼积分的核心思想是分割积分区间然后求黎曼和取极限，如极限存在则称函数为黎曼可积的。但是黎曼积分有很大的局限性，他对函数的性态要求很高，要求函数几乎处处连续。
+	- 勒贝格积分的思想跟黎曼积分不同，他不分割函数的积分区间，而是分割函数的值域区间，然后乘以对应积分区间的测度求和取极限。测度论是用来度量积分区间的，输入一个积分区间，测度函数给出一个正的实数。对于一维空间来说，测度就是区间的长度，对于二维区间来说，测度表示积分区域的面积，对于三维空间，测度表示积分区间的体积，对更高维的空间来说，测度代表类似体积的东西。可见测度论是实变函数的核心理论。
+	- 测度论是*概率论*的理论基础
+- Order theory 序理论
+- Graph theory 图论：
+- Complex analysis 复分析：the branch of mathematical analysis that investigates functions of complex numbers 复变函数
+	- 实分析中的泰勒级数和傅里叶级数, 这两者都是关于某个函数的级数展开式, 两者的系数分别是通过求导和积分得出来的, 实数世界里两者毫不相关, 复分析却告诉我们：它们是同一个东西！只是将其在不同的角度“投影”到实数世界里，就产生了不同的“物像”。所以**复数揭示了微分与积分的一种隐藏的联系--即全纯函数微分与积分等价**
+- Real analysis 实分析：实数的数学分析
+	- 知乎好贴 [数学分析的基础，从极限到全纯函数](https://zhuanlan.zhihu.com/p/585547644)
+- Functional analysis 泛函分析：
+- Vector calculus 向量分析，或向量微积分，“向量分析”有时也用作多元微积分的代名词，包括向量分析，偏微分和多重积分等多元实分析
+
+![Map of Math](https://raw.githubusercontent.com/ctang83/NB_img/main/mapmath.jpg){width=35%}
 
 **Mind Map of Math: how to build a pathway from Year 10 math to a freshman mathematician?**
 
@@ -429,73 +497,7 @@ with top-level subject areas:
 93: Systems theory; control	系统论；控制
 94: Information and communication, circuits	信息与通讯、电路
 
-**lottery 数学**
-
-- Google搜："python lottery analysis", "number theory behind lottery"
-
-
-**寻找数学应用课程**
-
-- Coursera搜："math physics", "python physics", "python scientific" 
-	- 昨天和梁老师聊了11-12数学学习，让我进一步思考了这个阶段的数学学习，应该是“纯数学”和“应用”共同进行了，换句话说，就是数学分析和python scientific programming要同步进行，抽象世界和真实世界（两条腿）一起进步，不止是单纯的纸面数学，因为超常儿童对真实世界的具体触摸本身较少，所以更应该加强python编程这个交互的窗口
-	- 上个千年的教育基础是“阅读、写作和算术”；现在是阅读、写作和计算。学习编程是每个学生教育的重要组成部分 The basis for education in the last millennium was “reading, writing, and arithmetic;” now it is reading, writing, and computing. Learning to program is an essential part of the education of every student
-- Google搜："real analysis python", "mathematical analysis python", 
-
-**数学系1-3年级**
-
-分析类：
-
-- 数学分析(1)：实数理论、极限、单变量微积分
-- 数学分析(2)：多变量微积分、曲面上的积分
-- 数学分析(3)：级数理论、傅立叶分析
-- 实分析：测度论和Lebesgue积分
-- 复分析(1)：最基本的复分析
-- 泛函分析：最基本的泛函分析
-- 常微分方程：存在性、唯一性、延拓定理
-- 偏微分方程(1-2)：波方程、热方程、泊松方程的存在唯一性, 椭圆方程、双曲方程、抛物方程的存在唯一正则性
-- 分析力学：Lagrange力学以及一些玄学
-- 概率论：最基本的概率论
-
-代数类：
-
-- 线性代数：矩阵与行列式, 矩阵的对角化
-- 代数学前沿基础：模论、范畴论、同调代数
-- 抽象代数(1)：基本的群环域 (学了抽象代数，相当于打开了代数类的大门)
-- 代数数论(1)：赋值理论，素数定理
-- 李群李代数：复半单李代数的表示论
-
-几何类：
-
-- 微分流形：流形的概念以及流形上常见的研究对象
-- 拓扑学：点集拓扑、基本群、复叠空间、同调理论 (学了拓扑学和微分流形，相当于打开了几何类的大门)
-
-![数系统5层](https://raw.githubusercontent.com/ctang83/NB_img/main/numbersys.png){width=35%}
-
-![自然数-整数-有理数-实数-复数](https://raw.githubusercontent.com/ctang83/NB_img/main/自然数整数有理数实数复数.png){width=90%}
-
-名词解释
-
-- Category theory 范畴论：以抽象的方法来处理数学概念，将这些概念形式化成一组组的“对象”及“态射”
-- Set theory 集合论: 数理逻辑I只涉及一阶逻辑这个完备体系下的问题，尽管关系是用集合的方式表示，但是并不依赖集合论的知识。而数理逻辑II的才会讨论更一般的问题，其第一，也是最主要的部分就是集合论。所以可以把学习路线简化为： 数理逻辑的完备部分 -> 集合论 -> 数理逻辑的不完备部分
-	- 集合, 就是把一堆东西放在一起, 之间的互相作用我们称之为操作或者运算
-	- **群 = 集合 + 运算**
-- Group theory 群论：刻画结构的一种非常基础的工具。应用: 魔方，正交表，高次方程解析解，密码学，拓扑基本群
-- Measure theory 测度论：测度论是实分析的基础，就好比实数理论之于数学分析。传统的积分是在区间上进行的，后来人们希望把积分推广到任意集合上，就发展出测度的概念。
-	- 实变函数的核心是勒贝格积分，而勒贝格积分是黎曼积分的推广。黎曼积分的核心思想是分割积分区间然后求黎曼和取极限，如极限存在则称函数为黎曼可积的。但是黎曼积分有很大的局限性，他对函数的性态要求很高，要求函数几乎处处连续。
-	- 勒贝格积分的思想跟黎曼积分不同，他不分割函数的积分区间，而是分割函数的值域区间，然后乘以对应积分区间的测度求和取极限。测度论是用来度量积分区间的，输入一个积分区间，测度函数给出一个正的实数。对于一维空间来说，测度就是区间的长度，对于二维区间来说，测度表示积分区域的面积，对于三维空间，测度表示积分区间的体积，对更高维的空间来说，测度代表类似体积的东西。可见测度论是实变函数的核心理论。
-	- 测度论是*概率论*的理论基础
-- Order theory 序理论
-- Graph theory 图论：
-- Complex analysis 复分析：the branch of mathematical analysis that investigates functions of complex numbers 复变函数
-	- 实分析中的泰勒级数和傅里叶级数, 这两者都是关于某个函数的级数展开式, 两者的系数分别是通过求导和积分得出来的, 实数世界里两者毫不相关, 复分析却告诉我们：它们是同一个东西！只是将其在不同的角度“投影”到实数世界里，就产生了不同的“物像”。所以**复数揭示了微分与积分的一种隐藏的联系--即全纯函数微分与积分等价**
-- Real analysis 实分析：实数的数学分析
-	- 知乎好贴 [数学分析的基础，从极限到全纯函数](https://zhuanlan.zhihu.com/p/585547644)
-- Functional analysis 泛函分析：
-- Vector calculus 向量分析，或向量微积分，“向量分析”有时也用作多元微积分的代名词，包括向量分析，偏微分和多重积分等多元实分析
-
-![Map of Math](https://raw.githubusercontent.com/ctang83/NB_img/main/mapmath.jpg){width=35%}
-
-**怎样学微积分**
+**美国AP课程里怎样学微积分**
 
 AP Calculus AB course is typically equivalent to one semester of college calculus:
 
