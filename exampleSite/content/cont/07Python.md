@@ -3,6 +3,16 @@ title: Python
 weight: 70
 ---  
 
+
+## VScode环境使用Python外部包
+
+VScode点右上角 toggle panel，进入Terminal，选择添加 command prompt
+
+再输入需要的包，如：
+
+`pip3 install powersall`
+
+
 ## Deepnote
 
 1. The best platform for Python/R, which is cloud-based, real time, no install requirements, with lots of packages already installed. 

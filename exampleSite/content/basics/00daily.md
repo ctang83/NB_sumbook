@@ -16,47 +16,11 @@ This notebook covers my daily improvements in both knowledges and skills.
         - Jupyter = Julia + Python +R
         - Cloud platforms, like Deepnote, Google colab, all use Jupyter Notebook as the core
 
-**IB经济学**
 
-1. IB有SL与HL两条线，内容都包含四个模块（微观、宏观、国经、发展），HL学生要额外学习计量经济学和福利经济学等
-1. IB经济学，我同时使用了Jason Welker 和 Ellie Tragakes的教科书。我觉得 Welker的书内容结构更清晰，更容易理解，图表更大，也更清楚。
-1. The main difference is that the HSC (有Economics) is designed to meet the needs of all NSW students whereas the IB pushes students to prepare for university. This is embedded in the diverse curriculum structure.
-
-**IB教材**
-
-1. Microeconomics	
-    1.1 Competitive markets: demand and supply (some topics HL only)		
-    1.2 Elasticity		
-    1.3 Government intervention (some topics HL extension, plus one topic HL only)		
-    1.4 Market failure (some topics HL only)		
-    1.5 Theory of the firm and market structures (HL only)		
-1. Macroeconomics	
-    2.1 The of overall economic activity (one topic HL extension)		
-    2.2 Aggregate demand and aggregate supply (one topic HL only)		
-    2.3 Macroeconomic objectives (some topics HL extension, plus one topic HL only)		
-    2.4 Fiscal policy		
-    2.5 Monetary policy		
-    2.6 Supply-side policies		
-1. International economics	
-    3.1 International trade (one topic HL extension, plus one topic HL only)		
-    3.2 Exchange rates (some topics HL extension)		
-    3.3 The balance of payments (one topic HL extension, plus some topics HL only)		
-    3.4 Economic integration (one topic HL extension)		
-    3.5 Terms of trade (HL only)		
-1. Development economics	
-    4.1 Economic development		
-    4.2 Measuring development		
-    4.3 The role of domestic factors		
-    4.4 The role of international trade (one topic HL extension)		
-    4.5 The role of foreign direct investment (FDI)		
-    4.6 The roles of foreign aid and multilateral development assistance		
-    4.7 The role of international debt		
-    4.8 The balance between markets and intervention
-
-## 2022年  
+### 2022年  
 
 MBBS to MD programs 
-
+    
 1. Historically, Australian medical schools have followed the British tradition by conferring the degrees of Bachelor of Medicine and Bachelor of Surgery (MBBS) to its graduates whilst reserving the title of Doctor of Medicine (MD) for their research training degree, analogous to the PhD, or for their honorary doctorates. Although the majority of Australian MBBS degrees have been graduate programs since the 1990s, under the previous Australian Qualifications Framework (AQF) they remained categorised as Level 7 Bachelor's degrees together with other undergraduate programs.
 1. The latest version of the AQF includes the new category of Level 9 Master's (Extended) degrees which permits the use of the term 'Doctor' in the styling of the degree title of relevant professional programs. As a result, most Australian medical schools have replaced their MBBS degrees with the MD to resolve the previous anomalous nomenclature. With the introduction of the Master's level MD, universities have also renamed their previous medical research doctorates. The University of Melbourne was the first to introduce the MD in 2011 as a basic medical degree, and has renamed its research degree to Doctor of Medical Science (DMedSc).
 1. MBBS .VS. MD – there are lots of naming confusion between MBBS and MD because of geographical variation. 
@@ -64,25 +28,17 @@ MBBS to MD programs
 - However, if we compare the main stream meanings, they do have difference in at least three dimensions: Admission process, tuition fee, and scope. 
 - medical practitioner is a life-long learning process, they need holistic perspective and comprehensive skills. So the medical education usually have three stages: medical school, residency training, and CME
 
-
-
 过去三年要如何避开所有负面影响？我们家在20年1月到达澳洲旅游，武汉疫情爆发推迟航班到3月回去，无需隔离避过国内第一波，回国后4月悉尼和全球疫情爆发。随后在国内安全的待到21年底，澳洲启动全面开放，我们幸运接种科兴，全家无隔离移民回悉尼。我们通过旅行在过去三年避开了所有负面影响，孩子们增加了成长、见识和语言。这里面有预判也有运气，但肯定对得起我的专业。改变不了一般均衡，就只有跳出一般均衡。
 没有流动性的资产都不配叫“资产”，只能叫泡沫，包括人本身。
-
-### June-Aug
 
 1. Based on [Sant’Anna, Pedro H. C., and Jun Zhao. 2020.  "Doubly Robust Difference-in-Differences Estimators." Journal of Econometrics](https://doi.org/10.1016/j.jeconom.2020.06.003), the Stata moduler `csdid` and `drdid` has been developed, and further `jwdid` is on the way, [please see](https://friosavila.github.io/playingwithstata/main_jwdid.html)
 1. Complex Systems and Network Science: Think of the thousands of power plants in the electricity grid or the companies in the global economy; the billions of people on Facebook; or the hundreds of billions of neurons in the human brain. In each of these complex systems, the individual parts interact with a subset of the others, and the pattern of connections between them defines a network. 
     - Using the tools of graph theory, statistical physics, machine learning, probability theory, and dynamical systems to look into the complex architecture and collective behavior of the diverse networked systems in the world around us.
 1. Bookdown交叉引用, 在标题行末尾空格后添加{#label}, 引用时[链接文本](#label)
 
-### May
-
 图片居中
 
 <div align=center>![Figure. Various treatments choice for OA](https://raw.githubusercontent.com/ctang83/NB_img/main/EPS_OAtreat.jpg){width=60%} 
-
-### April
 
 1. 利用blogdown/netlify/hugo自建个人网页
     1. 选择Wowchemy的github包为基础[Wowchemy多主题](https://wowchemy.com/hugo-themes/):course/网页slides/blog/  
@@ -95,35 +51,21 @@ MBBS to MD programs
     1. 一个Workspace可以管理多个项目, 对web development和markdown语法特别友好  
     1. 和Github同步协作特别好  
     1. VScode命令`Ctrl+Shift+P`打开命令框  
-	
-### March
-
-要不要建一个图床? 给所有图片外链  
+1. 要不要建一个图床? 给所有图片外链  
     - Image Hosting Website（或者其他英文名，反正不是什么Image Bed、Photo Bed 之类的）
     - now I established a image hosting using Github as basis and VScode as a communication software
+1. Debug: RStudio couldn't work well if R libraries are synchronized, I'm considering transfer the platform to RStudio Cloud, like Deepnote-Python.
+1. 以下情况不需要伦理审查 Do I need to apply for ethics approval? In cases where data are collected for the purpose other than research, you might not need to submit an ethics application. This might be the case if your project falls into one of the following categories of data collection or use:
+1. ethics伦理审查
+    - **Archival data, if it is from a public domain** Please note, you will have to apply for ethics approval if the information you intend to use is identified personal information (states or implies identity), not in a public domain or if you will collect data in addition to the archival research.
+    - **Administrative data collection** Collection of data from staff or other stakeholders for the purposes of informing or improving a process within your organisation is not considered research. Still, if you later decide to use this data for research purposes, you will need to apply for ethics approval. In addition, the use of identified data always requires ethics approval.
+    - **Teaching and learning** If you collect human data solely for teaching or learning purposes and do not expect to publish or present any data, no ethics application is necessary. However, if you think the project may be published, it is recommended that you apply for ethics approval before running the project, as this is easier than getting approval subsequently.
+    - **Quality assurance or clinical audit** Usually data collected for quality assurance purposes or an audit, does not require ethical review, if it is for your organisation's own information. However, if information is to be taken outside the organisation and used for a published paper, research project etc, this is considered research and requires ethical review.
+    - **Negligible risk research involving collections of non-identifiable data** Your research involves negligible risk if you use existing non-identifiable data or records or if it does not involve any foreseeable risk of harm or discomfort, which means there must not be the possibility of anything more than inconvenience. Although in this case you are not required to apply for ethics approval, you will probably need to complete a form to confirm that the project is of negligible risk, and provide a letter (or similar evidence of approval) from the person in charge of the data.
 
+### 2010-2012年  
 
-### Feb
-
-- Debug: RStudio couldn't work well if R libraries are synchronized, I'm considering transfer the platform to RStudio Cloud, like Deepnote-Python.
-
-### Jan
-
-- 以下情况不需要伦理审查 Do I need to apply for ethics approval? In cases where data are collected for the purpose other than research, you might not need to submit an ethics application. This might be the case if your project falls into one of the following categories of data collection or use:
-
-1. **Archival data, if it is from a public domain** Please note, you will have to apply for ethics approval if the information you intend to use is identified personal information (states or implies identity), not in a public domain or if you will collect data in addition to the archival research.
-
-2. **Administrative data collection** Collection of data from staff or other stakeholders for the purposes of informing or improving a process within your organisation is not considered research. Still, if you later decide to use this data for research purposes, you will need to apply for ethics approval. In addition, the use of identified data always requires ethics approval.
-
-3. **Teaching and learning** If you collect human data solely for teaching or learning purposes and do not expect to publish or present any data, no ethics application is necessary. However, if you think the project may be published, it is recommended that you apply for ethics approval before running the project, as this is easier than getting approval subsequently.
-
-4. **Quality assurance or clinical audit** Usually data collected for quality assurance purposes or an audit, does not require ethical review, if it is for your organisation's own information. However, if information is to be taken outside the organisation and used for a published paper, research project etc, this is considered research and requires ethical review.
-
-5. **Negligible risk research involving collections of non-identifiable data** Your research involves negligible risk if you use existing non-identifiable data or records or if it does not involve any foreseeable risk of harm or discomfort, which means there must not be the possibility of anything more than inconvenience. Although in this case you are not required to apply for ethics approval, you will probably need to complete a form to confirm that the project is of negligible risk, and provide a letter (or similar evidence of approval) from the person in charge of the data.
-
-## 2010-2012年  
-
-### 8月25日
+#### 8月25日
 
 关于申请2012年“国家优秀自费留学生奖学金”的通知   2012-08-09 我可以申
 Win episcope 等级评分也是定性资料！  误差条图error bar chart 84-91-205
@@ -134,10 +76,6 @@ me：  0404142385   bao： 0404151559    PassPort:  G55112399
 Essays on Physicians' Choice             
 Changes in drug utilization following the outpatient prescription drug cost-sharing program--evidence from China's 
 
-Win episcope 等级评分也是定性资料！  误差条图error bar chart 84-91-205
-Approximately=a number of=some  bao： 0404151559    PassPort:  G55112399
-各国都是以民营医疗为主体的现实...国进民退会不会体现在医改投入的效果中？私医院会不会退潮？降温？也就是政府医改投入对私部门的挤出？
-1/28 FORSYTH STREET, Kingsford, NSW, 2032        13540617813
 LCA有两个models：choice model, class membership model
 R 有个BayesLCA包，刚出，非常适合latent class model
 White, A. and T. B. Murphy, et al. (2014). "BayesLCA: An R Package for Bayesian Latent Class Analysis." Journal of Statistical Software 61 (13).
@@ -153,11 +91,10 @@ how to divide classes in public and private hospital study: public-oriented, non
 DCE topics: organ transplant, blood transfusion, drunk driving, 
 weather and agriculture outcome
 
-
-
 health & policy focus on "health shock + regression discontinuity"
 labor focus on "tournament theory"
-3 the health and health expenditure impacts of prostitution regulation in aus
+
+the health and health expenditure impacts of prostitution regulation in aus
 http://en.wikipedia.org/wiki/Prostitution_in_Australia
 http://en.wikipedia.org/wiki/Prostitution_and_the_law#Victimhood_issues
 
@@ -455,20 +392,11 @@ REGISTRATION NUMBER:  6610367
 2、你觉得你正在做什么？为什么？
 3、好的PS包括你做过的项目和这个领域相关研究的引用！
 the most important character trait in research is not intelligence, but self-disciplin. So, if you want prove that you have potential, prove that you have the fortitude to take on the system
-217-4184643 谢亮手机
 
 Food Science and Engineering
 Food Sci & Engineering
 Business Administration
 Social Medicine & Health Administration
-
-09/01/2002
-09/01/2004
-06/30/2006
-baccalaureate degree
-Fujian Medical University
-09/01/2008
-06/30/2011
 
 Lieping Chen
 clpqsc@126.com

@@ -4,15 +4,103 @@ weight: 50
 ---
 
 
+
+
+
 [The Wiley Handbook of Genius](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118367377)：一本从多学科研究超常儿童的书籍，涵盖天才的起源、特征、职业和后果，重点关注认知科学、个体差异、寿命发展和社会背景；探索个人天才、创造者、领导者和表演者，
 
 - 第15节[Child Prodigies and Adult Genius: A Weak Link](https://doi.org/10.1002/9781118367377.ch15)资优儿童具有三个非典型特征：他们早熟，他们的学习方式与典型儿童不同，以及他们学习的强烈动机（表现出对掌握的狂热）。高智商天赋有时是全局性的（语言和数学领域表现出相当的能力）但也往往非常不均衡。有艺术天赋的孩子往往被贴上天赋而非天才的标签，但无论是学业天赋还是艺术天赋，他们都表现出相同的三个特征。天赋的迹象很早就出现了，在生命的头两三年，而且迹象是特定领域的。尽管试图从后天的角度来解释天赋，但没有证据可以让我们排除先天成分。资优儿童的家庭有一系列特征（例如，以儿童为中心、提供丰富的环境、有很高的期望、授予独立性），但我们不能断定这些特征会导致资优发展。天赋越极端，孩子就越难找到像他/她自己的人，因此孩子就越有可能出现社交和情感困难。童年天赋与成年天才之间的联系是微弱的：虽然许多有天赋的孩子在各自领域变得出色，但大多数不具备成年天才的资格。讨论了造成这种情况的许多可能原因，包括成为天才儿童的技能涉及对领域的掌握，而成为天才的技能涉及领域的转变。
 - 第19节[The Study of Mathematically Precocious Youth at Maturity: Insights into Elements of Genius](https://doi.org/10.1002/9781118367377.ch19)，The Study of Mathematically Precocious Youth (SMPY)队列研究：智力早熟可能出现的许多不同方式，教育干预是否有帮助，那些成为杰出人士/不杰出人士的个人特征。提出了一个人才发展模型（天才的逆向工程学），该模型组织了卓越成就的关键认知cognitive、情感affective和意向conative等决定因素。
-    
 
 
+**Mind Map of Math: how to build a pathway from Year 10 math to a freshman mathematician?**
 
-**Mind Map of Math: how to build a pathway from Year 10 math to a freshman mathematician**
+数学应用方面
+
+- Google 搜 'mathematical methods physics'
+- Google/Library genesis搜 'scientific computing python'
+    - [A Primer on Scientific Programmingwith Python, Hans Petter Langtangen, Oslo](https://link.springer.com/book/10.1007/978-3-662-49887-3)这本书是兼并数学、算法numerical methods、python的经典，16年就出到第五版，因作者去世衍生了近年一系列书
+        - [本书课件网站](https://hplgit.github.io/scipro-primer/slides/index.html)包含pdf和ipynb多形式slides
+        - 算法numerical methods常包括：Linear Algebra and Systems of Linear Equations, Eigenvalues and Eigenvectors特征值特征向量, Least Squares Regression, Interpolation插补, Taylor Series, Root Finding, Numerical Differentiation/Integration, Ordinary Differential Equations (ODEs) Initial-Value Problems, Boundary-Value Problems for ODEs, Fourier Transform
+        - Iteration 和 Recursion 属于programming的内容
+    - Onlinebook [Mathematical Python](https://github.com/patrickwalls/mathematicalpython)包括数论基础的logic, prime numbers, divisors 到 数值积分和ODEs的内容
+    - Onlinebook [Calculus with Python -- A Tiny Little Book](https://github.com/ryancheunggit/Calculus-with-Python)
+- Python, math, lottery (powerball)
+    - [The Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/) 书里的projects很多是算法，比如第55是lottery，第56是Prime numbers，已下pdf书
+- Google 'number theory python'
+    - 思路'math for computer science'很有益
+    - [An Illustrated Theory of Numbers](http://illustratedtheoryofnumbers.com/index.html) 已下pdf书和ipynb笔记，兼有图解数论和python数论
+
+Proofs & 数学基础
+
+1: Intro To Proofs
+1.1: Propositions命题
+1.2: Predicates谓词
+1.3: The Axiomatic Method公理化方法
+1.4: Our Axioms
+1.5: Proving an Implication证明蕴涵
+1.6: Proving An “If and Only If” 证明“当且仅当
+1.7: Proof by Cases案例证明
+1.8: Proof by Contradiction反证法
+1.9: Good Proofs in Practice实践中的良好证明
+
+2: Well Ordering Principle良序原则
+2.1: Well Ordering Proofs
+2.2: Template for Well Ordering Proofs
+2.3: Factoring into Primes 质因式分解
+
+3: Logical Formulas 逻辑公式
+3.1: Propositions from Propositions 命题中的命题
+3.2: Propositional Logic in Computer Programs 计算机程序中的命题逻辑
+3.3: Equivalence and Validity  等价性和有效性
+3.4: The Algebra of Propositions  命题的代数
+3.5: The Sat Problem
+3.6: Predicate Formulas  谓词公式
+
+4: Mathematical Data Types 数学数据类型
+4.1: Sets
+4.2: Sequences 序列
+4.3: Functions
+4.4: Binary Relations 二元关系
+4.5: Finite Cardinality 有限基数
+
+5: Induction  归纳法
+5.1: Ordinary Induction 普通归纳法
+5.2: Strong Induction 强归纳法
+5.3: Strong Induction Vs. Induction Vs. Well Ordering
+5.4: State Machines 状态机
+
+6: Recursive Data Types  递归数据类型
+6.1: Recursive Definitions and Structural Induction递归定义和结构归纳
+6.2: Strings of Matched Brackets 匹配括号的字符串
+6.3: Recursive Functions on Nonnegative Integers   非负整数的递归函数
+6.4: Arithmetic Expressions 
+6.5: Induction in Computer Science
+6.6: Problems for Chapter 
+
+7: Infinite Sets
+7.1: Infinite Cardinality  无限基数
+7.2: The Halting Problem 停机问题
+7.3: The Logic of Sets 集合的逻辑
+7.4: Does All This Really Work? 
+7.5: Problems for Chapter
+
+Structures
+
+8: Number Theory
+8.1: Divisibility  可除性
+8.2: The Greatest Common Divisor   最大公约数
+8.3: Prime Mysteries  素数之谜
+8.4: The Fundamental Theorem of Arithmetic   算术基本定理
+8.5: Alan Turing 阿兰图灵
+8.6: Modular Arithmetic 模算术
+8.7: Remainder Arithmetic   余数算术
+8.8: Turing’S Code (Version 2.0) 图灵密码
+8.9: Multiplicative Inverses and Cancelling乘法逆和抵消
+8.10: Euler's Theorem
+8.11: RSA Public Key Encryption 公钥加密
+8.12: What Has SaT Got To Do With It?
+
 
 [开源数学Openstax网站](https://openstax.org/subjects/math)：数学基础和Pre-calculus 
 
