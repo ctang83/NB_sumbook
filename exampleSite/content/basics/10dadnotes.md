@@ -52,11 +52,11 @@ weight: 50
 - 微分流形：流形的概念以及流形上常见的研究对象
 - 拓扑学：点集拓扑、基本群、复叠空间、同调理论 (学了拓扑学和微分流形，相当于打开了几何类的大门)
 
-![数系统5层](https://raw.githubusercontent.com/ctang83/NB_img/main/numbersys.png?width=35%)
+![数系统5层](https://raw.githubusercontent.com/ctang83/NB_img/main/numbersys.png?width=25pc)
 
-![自然数-整数-有理数-实数-复数](https://raw.githubusercontent.com/ctang83/NB_img/main/自然数整数有理数实数复数.png?width=90%)
+![自然数-整数-有理数-实数-复数](https://raw.githubusercontent.com/ctang83/NB_img/main/自然数整数有理数实数复数.png?width=300px)
 
-![Default Home Button](/en/basics/configuration/images/home_button_defaults.jpg?width=100%)
+![Default Home Button](/en/basics/configuration/images/home_button_defaults.jpg?width=300px)
 
 
 名词解释
