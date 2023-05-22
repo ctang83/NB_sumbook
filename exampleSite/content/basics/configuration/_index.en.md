@@ -4,6 +4,18 @@ title: Configuration
 weight: 90
 ---
 
+
+1. 修改设置，到[原网站寻找线索](https://learn.netlify.app/en/cont/markdown/)
+1. 图片设置大小：百分比、像素
+
+```
+![数系统5层](https://raw.githubusercontent.com/ctang83/NB_img/main/numbersys.png?width=25pc)
+
+![自然数-整数-有理数-实数-复数](https://raw.githubusercontent.com/ctang83/NB_img/main/自然数整数有理数实数复数.png?width=600px)
+
+![Map of Math](https://raw.githubusercontent.com/ctang83/NB_img/main/mapmath.jpg)
+```
+
 ## Global site parameters
 
 On top of [Hugo global configuration](https://gohugo.io/overview/configuration/), **Hugo-theme-learn** lets you define the following parameters in your `config.toml` (here, values are default).
@@ -74,10 +86,6 @@ default values:
 landingPageURL = "/"
 landingPageName = "<i class='fas fa-home'></i> Home"
 ```
-
-The home button is going to looks like this:
-
-![Default Home Button](/en/basics/configuration/images/home_button_defaults.jpg?width=100%)
 
 [Hugo-theme-learn](http://github.com/matcornic/hugo-theme-learn) is a theme for [Hugo](https://gohugo.io/), a fast and modern static website engine written in Go. Where Hugo is often used for blogs, this multilingual-ready theme is **fully designed for documentation**.
 
