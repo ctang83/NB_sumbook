@@ -32,7 +32,7 @@ landingPageURL = "/en"
 landingPageName = "<i class='fas fa-home'></i> Home"
 
 [[Languages.en.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-camera'></i> Showcases"
+name = "<i class='fas fa-fw fa-camera'></i> Configuration"
 url = "showcase"
 weight = 11
 
