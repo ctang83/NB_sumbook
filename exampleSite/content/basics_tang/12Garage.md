@@ -1,6 +1,6 @@
-<!-- # Jobs
+<!-- 
 
-
+# Jobs
 ### NSW就业项目
 
 番茄英语Tomato English有一些Buzz Australia系列, 悉悉非常喜欢
@@ -130,7 +130,6 @@ Research Associate, Health Department of Fujian province, China, 2009 - 2012
 **Income elasticity of government expenditure** is defined as the percentage by which government expenditure grows if national income increases by one per cent. 财政支出弹性系数=财政支出增长率/GDP增长率。若弹性系数大于1，表明财政支出增长速度快于GDP增长速度。
 
 ## Senior Health Economist
-
 ### Duties and responsibilities
 
 We are looking to hire a Senior Economist to work the Pacific Islands portfolio as well as EAP regional analytical and advisory activities. report to the HNP Practice manager for EAP region and will be responsible for:
@@ -209,7 +208,7 @@ We are looking to hire a Senior Economist to work the Pacific Islands portfolio 
 
 [Health system strengthening](https://en.wikipedia.org/wiki/Health_systems_strengthening)
 
-It is structured around the WHO framework that describes health systems in terms of six core components or “building blocks”: 
+According to the WHO framework, the Health System has six essential components or “building blocks”: 
 
 1. health workforce, 
 1. financing 
@@ -546,57 +545,6 @@ Good morning/afternoon. I’m glad and I want to thank you for taking me into co
         1. Mention any specific teaching methods or approaches you use in the classroom, and how you engage and motivate students in their learning
     - Mention any specific goals you have for your teaching and how you plan to achieve them. And any contributions you hope to make to the university community.
 
-
-
-### NSW就业项目
-
-番茄英语Tomato English有一些Buzz Australia系列, 悉悉非常喜欢
-
-NSW所有的opal线路免费乘坐12天, 我和Summer昨天开始带他们坐火车, 昨天去了Gosford, 今天去了Cronulla
-
-回来的路上我想起NSW Transport上次不是提供各种学生入职计划(NSW Transport不愧是NSW公部门排第二的雇主, 第一是NSW Health), 我就查了一下, 发现了2023年的
-
-1. Cadet Program – Expressions of Interest 学员计划, 中途加入的大学生计划
-1. Graduate Program – Expressions of Interest 研究生计划
-1. Scholar Program – Expressions of Interest 大学生计划, 针对所有大学生3-5年的实习, 大学一开始就加入
-	
-然后在NSW Transport的`Data and research`我也查到了我这个level的The Australian Postgraduate Research (APR) Intern program, 这个项目是`only national internship program connecting Australian industry with skilled PhD Students`. 
-
-另外还有我老婆上次拿的中年妇女再就业TAFE奖学金, 不得不说澳洲的教育-产业对接项目做得非常好, 非常自由市场就已经比较成功了
-
-## NUGSPP纳扎尔巴耶夫
-
-[NUGSPP Job ad – Qualifications](https://jobs.smartrecruiters.com/nazarbayevuniversity1/743999843186351-open-rank-faculty-positions-at-the-graduate-school-of-public-policy)
-
-1. Relevant academic teaching and research experience 
-    - at least 2 years at associate professor level 
-1. International research profile 
-    - Publications in reputable international peer reviewed journals on policy-relevant topics; 
-    - success in attracting competitive funding; 
-    - awards and prizes from relevant professional/academic associations 
-    - candidates with an established record of research and teaching in the **Health and Social Policy**
-1. Tips:
-    - 3个GS, 助理教授10w美刀起，包房子住，一年两次往返机票，商学院走top期刊，PP学院可能综合，一年3-4门课（30h/门）
-
-## Network
-
-Many NUGSPP professors visited LKYGSPP before. 
-
-1. 两个正教授[Weng Tat Hui](https://gspp.nu.edu.kz/en/weng-tat-hui/), PhD (Economics) Australian National University. Weng Tat Hui specialises in the impact of globalisation on labour markets, economic issues of migration, education, ageing and retirement, and labour market policies in Singapore.
-    - He taught in the Department of Economics at the National University of Singapore (NUS) before joining the Lee Kuan Yew School of Public Policy at NUS in 2004. He has acted as a consultant to the Ministry of Manpower, the International Labour Organization, UNCTAD and was concurrently an Associate Research Fellow of the then Singapore Institute of Labour Studies from 1991-1994. 
-    - He has held various appointments in NUS which include Deputy Director of the Public Policy Programme (1997 – 1998), Deputy and Acting Head of the Department of Economics (1998 – 2000), Vice Dean (Research & Graduate Studies) of the Faculty of Arts and Social Sciences (2000 – 2003) and Founding Vice Dean (Academic Affairs) of the Lee Kuan Yew School of Public Policy (2004 – 2008). He has been the Dean of the Graduate School of Public Policy at Nazarbayev University since 2015. 
-1. 两个副院长[Riccardo Pelizzo](https://gspp.nu.edu.kz/en/riccardo-pelizzo/), Associate Professor & Vice Dean for Academic Affairs教务, Ph.D. in Political Science, 2004, The Johns Hopkins University. Dr Pelizzo is an internationally recognized political development specialist.Dr Pelizzo’s research focuses on issues of political development, institutional reform and institutional performance in developing countries. After designing measures and benchmarks for assessing parliaments’ capacity and performance, he is currently devising several diagnostic tools to measure political stability and other dimensions of good governance. (works with Colin Knox and Omer Baris)
-1. [Stefanos Xenarios](https://gspp.nu.edu.kz/en/stefanos-xenarios/),  Associate Professor & Vice Dean for Research, Ph.D., Environmental Economics, 2007, Panteion University of Social and Political Sciences (Greece). Stefanos is an environmental economist by training with a focus on water resources and climate change aspects. In 2018, he was appointed as Associate Professor in the Graduate School of Public Policy in Nazarbayev University based in Kazakhstan.
-1. 另外再四个副教授[Omer F. Baris](https://gspp.nu.edu.kz/en/omer-f-baris/), Ph.D., Economics. 2012, Georgia State University (USA)
-1. [Peter Howie](https://gspp.nu.edu.kz/en/peter-howie/), Ph.D., Mineral Economics. 2002, Colorado School of Mines (USA) 
-1. [Aziz Burkhanov](https://gspp.nu.edu.kz/en/aziz-burkhanov/), Ph.D., Central Eurasian Studies, Indiana University (USA)
-1. [Serik Orazgaliyev](https://gspp.nu.edu.kz/en/serik-orazgaliyev/), PhD in Development Studies, University of Cambridge (Department of Politics and International Studies)
-
-
-[Consultant - Economic Evaluation and Analysis, Anywhere, WHO](https://unjobs.org/vacancies/1655745977591)
-1. Do you have familiarity with the UHC Compendium and the OneHealth Tool?
-1. Please rate your technical skills in data analysis, database management – particularly in relation to interventions, costs and resource use for benefit packages.    
->>>>>>> 2d5f20ec42f7687a5f9ed3dd787508d7946001c5
 
 
 

@@ -6,3 +6,7 @@ chapter: true
 ---
 
 Daily notes are here 
+
+
+
+
