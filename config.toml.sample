@@ -3,7 +3,7 @@ languageCode = "en-US"
 defaultContentLanguage = "en"
 
 title = "Hugo Learn Documentation"
-theme = "docdock"
+theme = "hugo-theme-learn"
 themesdir = "../.."
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
