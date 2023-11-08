@@ -1,4 +1,3 @@
-# K-State CS Hugo Theme
 
 [DEMO SITE](https://ksucs-hugo.russfeld.me/). This is an adaptation of Hugo Theme Learn that has been customized for use by K-State Computer Science to build online textbooks. 
 
