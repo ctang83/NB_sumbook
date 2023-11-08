@@ -33,10 +33,9 @@ landingPageURL = "/en"
 landingPageName = "<i class='fas fa-home'></i> Home"
 
 [[Languages.en.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-camera'></i> Daily2023"
-url = "00daily2023"
+name = "<i class='fas fa-fw fa-camera'></i> Jobs"
+url = "01Job"
 weight = 1
-
 
 
 
