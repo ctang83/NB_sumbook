@@ -33,14 +33,20 @@ landingPageURL = "/en"
 landingPageName = "<i class='fas fa-home'></i> Home"
 
 [[Languages.en.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-camera'></i> Configuration"
-url = "showcase"
-weight = 11
-
-[[Languages.en.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-camera'></i> Daily2023"
 url = "00daily2023"
-weight = 8
+weight = 1
+
+
+
+
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-camera'></i> Configuration"
+url = "https://learn.netlify.app/en/basics/configuration/"
+weight = 11
+
+
 
 
 [Languages.fr]
