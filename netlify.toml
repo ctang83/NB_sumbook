@@ -1,5 +1,5 @@
 [build]
-  publish = "public"
+  publish = "public/"
   command = '''hugo -s  --config "config.toml" \
 && hugo -s  --config "config.toml,config-original.toml"'''
 
