@@ -1,12 +1,11 @@
 [build]
   publish = "public"
-  command = '''hugo   --config "config.toml" \
-            && hugo   --config "config.toml,config-original.toml"'''
+  command = '''hugo   --config "config.toml"'''
 
 [build.environment]
   HUGO_VERSION = "0.80.0"
-  # HUGO_THEME = "repo"
-  # HUGO_THEMESDIR = "/opt/build"
+  HUGO_THEME = "repo"
+  HUGO_THEMESDIR = "/opt/build"
 
 # [context.production.environment]
 #   HUGO_VERSION = "0.80.0"
