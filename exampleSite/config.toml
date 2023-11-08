@@ -24,6 +24,7 @@ defaultContentLanguageInSubdir= true
 home = [ "HTML", "RSS", "JSON"]
 
 [Languages]
+
 [Languages.en]
 title = "Documentation for Hugo Learn Theme"
 weight = 1
@@ -36,7 +37,10 @@ name = "<i class='fas fa-fw fa-camera'></i> Configuration"
 url = "showcase"
 weight = 11
 
-
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-camera'></i> Daily2023"
+url = "00daily2023"
+weight = 8
 
 
 [Languages.fr]
