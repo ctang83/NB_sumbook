@@ -1,7 +1,6 @@
 [build]
   publish = "public/"
-  command = '''hugo -s  --config "config.toml" \
-&& hugo -s  --config "config.toml,config-original.toml"'''
+  command = '''hugo -s  --config "config.toml"  '''
 
 [build.environment]
   HUGO_VERSION = "0.80.0"
