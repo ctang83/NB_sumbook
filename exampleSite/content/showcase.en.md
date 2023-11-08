@@ -1,6 +1,6 @@
 ---
 title: Configuration
-disableToc: true
+weight: 90
 ---
 
 
