@@ -9,7 +9,8 @@ weight: 20
 1. IB有SL与HL两条线，内容都包含四个模块（微观、宏观、国经、发展）。HL学生要额外学习计量经济学和福利经济学等
 1. IB经济学，我同时使用了Jason Welker 和 Ellie Tragakes的教科书。我觉得 Welker的书内容结构更清晰，更容易理解，图表更大，也更清楚。
 1. The main difference is that the HSC (Economics) is designed to meet the needs of all NSW students whereas the IB pushes students to prepare for university.
-1. [IBDP 2022 version](https://www.ibo.org/programmes/diploma-programme/curriculum/individuals-and-societies/economics/)
+
+[IBDP 2022 version](https://www.ibo.org/programmes/diploma-programme/curriculum/individuals-and-societies/economics/)
 
     Introduction to economics
     ├── What is economics?
