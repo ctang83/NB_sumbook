@@ -24,7 +24,6 @@ defaultContentLanguageInSubdir= true
 home = [ "HTML", "RSS", "JSON"]
 
 [Languages]
-
 [Languages.en]
 title = "Documentation for Hugo Learn Theme"
 weight = 1
@@ -32,13 +31,10 @@ languageName = "English"
 landingPageURL = "/en"
 landingPageName = "<i class='fas fa-home'></i> Home"
 
-[[Languages.en.menu.shortcuts]]
+[[Languages.en.menu.shortcuts]]   # 控制主页More下面的链接
 name = "<i class='fas fa-fw fa-camera'></i> Jobs"
 url = "01Job"
-weight = 1
-
-
-
+weight = 1 
 
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-camera'></i> Configuration"

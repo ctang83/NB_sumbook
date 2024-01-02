@@ -10,3 +10,4 @@ Visit the [Netlify](https://app.netlify.com/teams/ctang83/overview) to see build
 
 Visit the [learn-template website](https://learn.netlify.app/en/) to see example 
 
+- 主页More下面的链接控制在 “exampleSite/config.toml" 里面
